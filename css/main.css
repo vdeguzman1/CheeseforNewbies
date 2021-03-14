@@ -29,7 +29,7 @@ main
 html
 {
   font-size: calc(14/16 * 1rem);
-  font-size: 87.5%;
+  font-size: 100%;
 }
 /*60*/
 h1 { font-size: 4.286rem; }
